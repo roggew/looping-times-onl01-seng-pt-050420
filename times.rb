@@ -1,7 +1,6 @@
-def using_times (spell)
-  spell = "Wingardium Leviosa"
-  7.times do spell
-end 
+def using_times
+  7. times do
+    puts "Wingardium Leviosa"
 end
 
 
